@@ -44,7 +44,7 @@ body{
 #year{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-@media (max-width:350px) {
+@media (max-width:400px) {
   
     .left,.right{
         width: 100%;
